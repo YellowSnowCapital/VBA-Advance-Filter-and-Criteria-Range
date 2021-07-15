@@ -1,5 +1,8 @@
 # VBA-Advance-Filter-and-Criteria-Range
 
+Please help assist me in applying advanced filters and criteria ranges to speed up how fast data can be copied over from multiple excel files? The current process takes too long.
+
+
 Sub Macro()
 
 Dim filePath As String
